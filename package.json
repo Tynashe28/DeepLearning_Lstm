@@ -1,7 +1,6 @@
 {
-  "name": "tensorflow-hello",
+  "name": "deeplearning_lstm",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +10,17 @@
   "dependencies": {
     "@tensorflow/tfjs-node": "^2.0.0",
     "csv-parser": "^2.3.3",
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tynashe28/DeepLearning_Lstm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tynashe28/DeepLearning_Lstm/issues"
+  },
+  "homepage": "https://github.com/Tynashe28/DeepLearning_Lstm#readme",
+  "description": ""
 }
